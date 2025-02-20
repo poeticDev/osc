@@ -5,3 +5,4 @@
 export 'package:osc/core/convert.dart' show DataCodec;
 export 'package:osc/core/io.dart' show OSCSocket;
 export 'package:osc/core/message.dart' show OSCMessage;
+export 'package:osc/osc_manager.dart' show OscManager;
